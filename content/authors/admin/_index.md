@@ -119,11 +119,11 @@ awards:
     certificate_url: https://www.freecodecamp.org/certification/Rinkey1/responsive-web-design
     date: '2024-11-05'
     awarder: freeCodeCamp
-    icon: datacamp
+    icon: freeCodeCamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     I have earned a Responsive Web Design Certification from freeCodeCamp, showcasing my expertise in HTML5, CSS3, Flexbox, and CSS Grid. Through this program, I developed dynamic, mobile-first web applications and layouts while mastering responsive design principles. I also completed hands-on projects, including personal portfolios, landing pages, and multi-page websites, demonstrating creativity, technical proficiency, and a strong commitment to modern web development standards and best practices.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This is  Meherunnesa Rinkey, a passionate Computer Science and Engineering undergraduate at Jahangirnagar University. I thrive on solving problems, creating innovative solutions, and building intuitive web experiences. With a certification in Responsive Web Design from freeCodeCamp, I specialize in crafting dynamic, user-friendly, and mobile-first websites.I’m eager to collaborate on meaningful tech-driven initiatives and bring my skills to the next level
