@@ -106,6 +106,8 @@ languages:
     percent: 100
   - name: Bengali
     percent: 100
+  - name: Hindi
+    percent: 100
   
 
 # Awards.
@@ -114,12 +116,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   
-  - title: freeCodeCamp Certification
+  - title: freeCode
     url: https://www.freecodecamp.org/Rinkey1
     certificate_url: https://www.freecodecamp.org/certification/Rinkey1/responsive-web-design
     date: '2024-11-05'
     awarder: freeCodeCamp
     icon: freeCodeCamp
+
     summary: |
      I have earned a Responsive Web Design Certification from freeCodeCamp, showcasing my expertise in HTML5, CSS3, Flexbox, and CSS Grid. Through this program, I developed dynamic, mobile-first web applications and layouts while mastering responsive design principles. I also completed hands-on projects, including personal portfolios, landing pages, and multi-page websites, demonstrating creativity, technical proficiency, and a strong commitment to modern web development standards and best practices.
 ---
