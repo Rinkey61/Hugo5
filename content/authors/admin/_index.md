@@ -46,7 +46,7 @@ interests:
 education:
   - area: Computer Science and Engineering
     institution: Jahangirnagar University
-    date_start: 2022-09-03
+    date_start: 2022-09-02
     
     
     summary: |
