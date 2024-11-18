@@ -2,7 +2,6 @@
   "htmlElements": {
     "tags": [
       "--",
-      "?xml",
       "a",
       "article",
       "aside",
@@ -507,8 +506,6 @@
       "space-y-16",
       "space-y-3",
       "spoiler",
-      "st0",
-      "st1",
       "sticky",
       "stroke-current",
       "table-auto",
@@ -543,7 +540,6 @@
       "text-slate-900",
       "text-sm",
       "text-white",
-      "text-wrap",
       "text-xl",
       "text-xs",
       "text-zinc-400",
@@ -590,11 +586,10 @@
     ],
     "ids": [
       "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
-      "Layer_1",
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-956274813",
+      "chart-934627851",
       "charts",
       "code",
       "crowd-funded-open-source-software",
