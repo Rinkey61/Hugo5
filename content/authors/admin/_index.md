@@ -30,18 +30,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:meherunnesarinkey6143@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/facebook
+    url: https://www.facebook.com/meherunnesarinkey89?mibextid=ZbWKw
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/Rinkey61
+  - icon: brands/freeCodeCamp
+    url: https://www.freecodecamp.org/Rinkey1
+ 
 
 interests:
   - Artificial Intelligence
