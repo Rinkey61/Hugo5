@@ -9,9 +9,6 @@ name_pronunciation: Meheronnesa Rinkey
 first_name: Meheronnesa 
 last_name: Rinkey
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
