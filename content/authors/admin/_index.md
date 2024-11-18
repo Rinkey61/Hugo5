@@ -39,9 +39,12 @@ profiles:
  
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence and Machine Learning
+  - Software Development
+  - Cyber Security
+  - Game Development
+  - Blockchain Technology and Cryptocurrencies
+  - Cloud Computing
 
 education:
   - area: PhD Artificial Intelligence
