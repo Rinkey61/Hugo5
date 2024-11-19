@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - 
+  
   - block: collection
     id: papers
     content:
