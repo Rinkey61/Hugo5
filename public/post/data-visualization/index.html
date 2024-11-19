@@ -870,14 +870,6 @@
         <ul class="hb-sidebar-list"><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/project/pandas/"
-    
-  >Pandas
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/project/pytorch/"
     
   >PyTorch
@@ -889,6 +881,14 @@
     href="/project/scikit/"
     
   >scikit-learn
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/surveyform/"
+    
+  >SurveyForm
     </a>
               
             </li></ul>
@@ -1103,7 +1103,7 @@
 
 
 
-<div id="chart-568427139" class="chart"></div>
+<div id="chart-741863925" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1121,7 +1121,7 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-568427139', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-741863925', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
