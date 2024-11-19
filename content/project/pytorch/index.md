@@ -1,13 +1,12 @@
 ---
 title: PyTorch
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/Rinkey61/Random1/tree/main/ProductLandingPage
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML & CSS
+  
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+
 
 <!--more-->
